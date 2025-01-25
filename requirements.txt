@@ -2,3 +2,5 @@ gspread
 oauth2client
 openai
 requests
+
+#ignore test
