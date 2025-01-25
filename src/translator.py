@@ -1,4 +1,3 @@
-# src/translator.py
 import requests
 from config.settings import TRANSLATE_API_KEY
 

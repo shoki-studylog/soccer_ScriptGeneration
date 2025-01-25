@@ -1,4 +1,3 @@
-# src/trivia_generator.py
 from openai import ChatCompletion
 from config.settings import OPENAI_API_KEY, CUSTOM_MODEL
 

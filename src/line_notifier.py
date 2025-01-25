@@ -1,4 +1,3 @@
-# src/line_notifier.py
 import requests
 from config.settings import LINE_TOKEN
 

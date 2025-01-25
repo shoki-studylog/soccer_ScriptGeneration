@@ -1,5 +1,3 @@
-# config/settings.py
-test
 # Google Sheets
 GOOGLE_SHEET_URL = "YOUR_SPREADSHEET_URL"
 

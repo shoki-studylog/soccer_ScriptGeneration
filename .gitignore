@@ -1,3 +1,4 @@
+#ignore list
 requirements.txt
 config/settings.py
 creds/credentials.json

@@ -1,4 +1,3 @@
-# src/main.py
 from gsheet_handler import get_keyword, write_to_sheet
 from trivia_generator import generate_trivia
 from translator import translate_text
